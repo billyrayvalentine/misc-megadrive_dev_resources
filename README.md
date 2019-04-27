@@ -12,6 +12,8 @@ They are not in an online git
 # Resources
 [https://blog.bigevilcorporation.co.uk/2012/02/28/sega-megadrive-1-getting-started/] - Excellent staring point
 
+[https://github.com/BigEvilCorporation/megadrive_samples] - Git repo for the above examples
+
 [http://web.textfiles.com/games/sega1409.txt] - Sega Programming FAQ from back in the day
 
 [https://megacatstudios.com/blogs/press/sega-genesis-mega-drive-vdp-graphics-guide-v1-2a-03-14-17] - Fantastic overview of the Megadrive VDP - excellent blog too
