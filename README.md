@@ -24,7 +24,11 @@ They are not in an online git
 
 [https://wiki.megadrive.org/index.php?title=Main_Page] - Some useful stuff
 
-[https://web.eecs.umich.edu/~prabal/teaching/resources/eecs373/Assembler.pdf] - GNU Assembler Guide
+[https://sourceware.org/binutils/docs-2.32/as/index.html] - GNU Assembler Guide
+
+https://github.com/db-electronics/68kTutorials - Develops Big Evil Corps stuff a bit futher
+
+[https://huguesjohnson.com/programming/] - Another really good blog following the devlopement of his game
 
 # Assemblers
 [gas - GNU Assembler](https://www.gnu.org/software/binutils/)
